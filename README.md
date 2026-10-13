@@ -67,3 +67,5 @@ ex1/
      - `test-matrix (21)` (hoặc `Test on Java 21`)
    - Cả 2 sub-jobs đều hoàn thành thành công với biểu tượng tích xanh (Green Checkmark).
    - Chụp ảnh màn hình hiển thị trực quan luồng Matrix Test để làm sản phẩm nộp bài.
+   <img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/5f2702ac-628a-461a-814e-63b4dc1dc0c7" />
+
